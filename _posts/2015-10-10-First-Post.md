@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "First"
+title:      "First Post"
 subtitle:   "My Attempt"
 date:       2015-10-10 01:00:00
 author:     "Naveen"
