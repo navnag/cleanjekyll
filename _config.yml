@@ -1,8 +1,8 @@
 # Site settings
-title: Clean Blog
+title: Naveen's Blog
 header-img: img/home-bg.jpg
 email: 
-description: "Write your site description here. It will be used as your sites meta description as well!"
+description: "Naveen's personal blog"
 baseurl: "/cleanjekyll"
 url: 
 twitter_username: 
